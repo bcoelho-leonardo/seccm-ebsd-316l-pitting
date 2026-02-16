@@ -1,14 +1,22 @@
-# data/
+# SECCM–EBSD 316L pitting: preprocessing + descriptors
 
-Place the downloaded dataset files in this folder before running the notebook.
+This repository contains a Jupyter notebook to preprocess SECCM chronoamperometry (CA) signals and extract electrochemical descriptors used in a correlative SECCM–SEM/EBSD workflow for 316L stainless steel pitting studies.
 
-Required files:
-- SS_NaCl_CA_M_1031_C.csv
-- CA_SECCM_descriptors_area.csv
-- labels.csv
-- SEM_EBSD.csv
-- selected_oval_pixels.csv
+## Contents
+- `preprocessing_seccm_ca_descriptors.ipynb` — main notebook
+- `data/` — place downloaded input files here (see `data/README.md`)
+- `outputs/` — generated results (created automatically)
 
-Optional:
-- ebsd_filtered.csv
-- oxygen_flux.txt
+## Quick start
+1) Clone/download this repository.
+2) Download the dataset files (see the dataset link in the paper / Zenodo).
+3) Copy the files into `./data/`
+4) Open and run:
+   - `preprocessing_seccm_ca_descriptors.ipynb`
+
+## Data location (two options)
+- Option A (default): put files in `./data/`
+- Option B: set an environment variable `SECCM_DATA_DIR` pointing to the folder that contains the files.
+
+## License
+MIT (code). Data license follows the dataset repository.
