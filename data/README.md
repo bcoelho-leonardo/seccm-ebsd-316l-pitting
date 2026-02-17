@@ -2,14 +2,18 @@
 
 Place the downloaded dataset files in this folder before running the notebook.
 
+Dataset source: **Zenodo (DOI: to be added)**
+
+> Important: keep the filenames exactly as listed below.
+
 ## Required files
-- SS_NaCl_CA_M_1031_C.csv  
-- CA_SECCM_descriptors_area.csv  
-- labels.csv  
-- SEM_EBSD.csv  
-- selected_oval_pixels.csv  
+- SS_NaCl_CA_M_1031_C.csv
+- CA_SECCM_descriptors_area.csv
+- labels.csv
+- SEM_EBSD.csv
+- selected_oval_pixels.csv
 
 ## Optional files
 - SS_NaCl_Parameters_M_1031_C.csv
-- ebsd_filtered.csv  
+- ebsd_filtered.csv
 - oxygen_flux.txt
