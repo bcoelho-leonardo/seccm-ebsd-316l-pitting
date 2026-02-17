@@ -1,22 +1,46 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the Zenodo dataset (preferred) and the associated journal article."
+message: >-
+  If you use this repository, please cite both the dataset (Zenodo DOI:
+  10.5281/zenodo.18668632) and the associated publication (DOI:
+  10.1016/j.corsci.2026.113708).
+title: "SECCM CA descriptor extraction (correlative SECCM–SEM/EBSD; 316L pitting)"
 type: software
-title: "seccm-ebsd-316l-pitting: SECCM CA preprocessing and descriptor extraction"
 authors:
-  - family-names: "Bertolucci Coelho"
-    given-names: "Leonardo"
+  - family-names: Coelho
+    given-names: Leonardo Bertolucci
     orcid: "https://orcid.org/0000-0002-7106-7603"
-license: "MIT"
+repository-code: "https://github.com/bcoelho-leonardo/seccm-ebsd-316l-pitting"
 url: "https://github.com/bcoelho-leonardo/seccm-ebsd-316l-pitting"
+license: MIT
+date-released: "2026-02-17"
+keywords:
+  - SECCM
+  - EBSD
+  - SEM
+  - 316L
+  - pitting corrosion
+  - chronoamperometry
+  - corrosion science
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18668632"
+    description: "Dataset DOI (Zenodo)"
+
+references:
+  - type: article
+    title: "Oxygen effects on passive film evolution and metastable pitting in 316 L stainless steel using SECCM"
+    doi: "10.1016/j.corsci.2026.113708"
+    journal: "Corrosion Science"
+    year: 2026
 
 preferred-citation:
   type: data
   title: "Correlative SECCM–SEM/EBSD dataset for 316L pitting: CA traces, descriptors, and imaging tables"
   authors:
-    - family-names: "Bertolucci Coelho"
-      given-names: "Leonardo"
+    - family-names: Coelho
+      given-names: Leonardo Bertolucci
       orcid: "https://orcid.org/0000-0002-7106-7603"
   doi: "10.5281/zenodo.18668632"
   url: "https://doi.org/10.5281/zenodo.18668632"
-  year: 2026
-  month: 2
+  date-released: "2026-02-17"
+  version: "v1"
