@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18668632.svg)](https://doi.org/10.5281/zenodo.18668632)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18671042.svg)](https://doi.org/10.5281/zenodo.18671042)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18668632.svg)](https://doi.org/10.5281/zenodo.18668632)
 
 # SECCM–SEM/EBSD correlative dataset (316L pitting): CA preprocessing + descriptor extraction
 
