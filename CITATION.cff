@@ -3,16 +3,20 @@ message: >-
   If you use this repository, please cite both the dataset (Zenodo DOI:
   10.5281/zenodo.18668632) and the associated publication (DOI:
   10.1016/j.corsci.2026.113708).
+
 title: "SECCM CA descriptor extraction (correlative SECCM–SEM/EBSD; 316L pitting)"
 type: software
+license: MIT
+date-released: "2026-02-17"
+
 authors:
   - family-names: Coelho
     given-names: Leonardo Bertolucci
     orcid: "https://orcid.org/0000-0002-7106-7603"
+
 repository-code: "https://github.com/bcoelho-leonardo/seccm-ebsd-316l-pitting"
 url: "https://github.com/bcoelho-leonardo/seccm-ebsd-316l-pitting"
-license: MIT
-date-released: "2026-02-17"
+
 keywords:
   - SECCM
   - EBSD
@@ -21,6 +25,7 @@ keywords:
   - pitting corrosion
   - chronoamperometry
   - corrosion science
+
 identifiers:
   - type: doi
     value: "10.5281/zenodo.18668632"
@@ -36,11 +41,11 @@ references:
 preferred-citation:
   type: data
   title: "Correlative SECCM–SEM/EBSD dataset for 316L pitting: CA traces, descriptors, and imaging tables"
-  authors:
-    - family-names: Coelho
-      given-names: Leonardo Bertolucci
-      orcid: "https://orcid.org/0000-0002-7106-7603"
   doi: "10.5281/zenodo.18668632"
   url: "https://doi.org/10.5281/zenodo.18668632"
   date-released: "2026-02-17"
   version: "v1"
+  authors:
+    - family-names: Coelho
+      given-names: Leonardo Bertolucci
+      orcid: "https://orcid.org/0000-0002-7106-7603"
