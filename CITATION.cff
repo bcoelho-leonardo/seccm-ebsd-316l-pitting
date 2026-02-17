@@ -1,1 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the Zenodo dataset (preferred) and the associated journal article."
+type: software
+title: "seccm-ebsd-316l-pitting: SECCM CA preprocessing and descriptor extraction"
+authors:
+  - family-names: "Bertolucci Coelho"
+    given-names: "Leonardo"
+    orcid: "https://orcid.org/0000-0002-7106-7603"
+license: "MIT"
+url: "https://github.com/bcoelho-leonardo/seccm-ebsd-316l-pitting"
 
+preferred-citation:
+  type: data
+  title: "Correlative SECCM–SEM/EBSD dataset for 316L pitting: CA traces, descriptors, and imaging tables"
+  authors:
+    - family-names: "Bertolucci Coelho"
+      given-names: "Leonardo"
+      orcid: "https://orcid.org/0000-0002-7106-7603"
+  doi: "10.5281/zenodo.18668632"
+  url: "https://doi.org/10.5281/zenodo.18668632"
+  year: 2026
+  month: 2
