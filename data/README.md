@@ -2,8 +2,7 @@
 
 Place the downloaded dataset files in this folder before running the notebook.
 
-Dataset source: **Zenodo (DOI: 10.5281/zenodo.18668632)**  
-Record: https://zenodo.org/records/18668632
+Dataset source: **Zenodo** (DOI: https://doi.org/10.5281/zenodo.18668632)
 
 > Important: keep the filenames exactly as listed below.
 
