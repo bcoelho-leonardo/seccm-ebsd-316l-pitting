@@ -4,6 +4,8 @@
 
 This repository provides a reproducible Jupyter workflow to preprocess SECCM chronoamperometry (CA) signals and extract electrochemical descriptors/features, designed for correlative analysis with SEM and EBSD in 316L stainless steel pitting studies.
 
+> GitHub renders notebooks for reading, but to **run** the code you must download/clone the repository and execute locally (or in your own Jupyter environment).
+
 ## What you get
 - A single, runnable notebook that:
   - loads SECCM CA traces
@@ -20,17 +22,16 @@ This repository provides a reproducible Jupyter workflow to preprocess SECCM chr
 
 ## Dataset (Zenodo)
 - **DOI:** https://doi.org/10.5281/zenodo.18668632
-- **Record:** https://zenodo.org/records/18668632
 - Download `seccm-ebsd-316l-pitting_dataset.zip` from Zenodo and place the files into `./data/`.
 
 ## Associated publication
-- **DOI:** https://doi.org/10.1016/j.corsci.2026.113708
+- https://doi.org/10.1016/j.corsci.2026.113708
 
 ## Quick start
 1) Clone/download this repository.  
 2) Download the dataset ZIP from Zenodo.  
 3) Copy the dataset files into `./data/` (see `data/README.md` for required filenames).  
-4) Open and run `seccm-ca-descriptor-extraction.ipynb` in Jupyter.
+4) Open and run the notebook.
 
 ## Data location options
 - **Option A (default, recommended):** place files in `./data/`
